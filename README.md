@@ -1,4 +1,4 @@
-You need to have backtrader package installed 
+You need to have backtrader package installed       
 The strats.py file contains two strategies:
 * RSI + Golden cross
 * Bollinger Bands
